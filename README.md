@@ -4,7 +4,11 @@ This is a console-based Student Database Management System written in C. It allo
 Features
 
 Insert student data: Add new student records with details such as student ID, name, father's name, and address.
+
 View all data inserted: Display all the student records stored in the database.
+
 Search for a particular student: Search for a student using their student ID and display their details.
+
 Delete data of a particular student: Delete a student's record using their student ID.
+
 CPU Time and Memory Usage: The program calculates and displays the CPU time used and memory consumed during execution.
